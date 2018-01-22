@@ -3,6 +3,8 @@ Jersey-2.x-User-Guide
 
 ![logo](http://i1288.photobucket.com/albums/b484/waylau/waylau%20blog/Jersey-2-User-Guide/jersey_logo_zps044c9b5c.png)
 
+> 本开源书 forked from [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)，作者为 [waylau](https://github.com/waylau)，欢迎大家 star 原作者的 [repo](https://github.com/waylau/Jersey-2.x-User-Guide)，以便获得最新更新，谢谢！
+
 Chinese translation of [Jersey 2.x User Guide](https://jersey.java.net/documentation/latest/user-guide.html).There is also a GitBook version of the book: [http://www.gitbook.com/book/waylau/jersey-2-user-guide](http://www.gitbook.com/book/waylau/jersey-2-user-guide).
 Let's [RESD](SUMMARY.md)!
 
